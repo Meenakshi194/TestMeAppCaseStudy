@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="36.278463">
+<testcase classname="Registration" name="Registration Scenario" time="36.278463">
+<system-out><![CDATA[Given User enters the TestMeApp.............................................passed
+Given User clicks on the signup link........................................passed
+When User enters the signUp page............................................passed
+And User enters the UserName "IndraKumar123"................................passed
+And User enters the FirstName "Indra".......................................passed
+And User enters the LastName "Kumar"........................................passed
+And User enters the Password "123456".......................................passed
+And User enters the ConfirmPassword "123456"................................passed
+And User enters the Gender "male"...........................................passed
+And User enters the Email "logesh123@gmail.com".............................passed
+And User enters the MobileNumber "9962248772"...............................passed
+And User enters the DateOfBirth "10/08/1998"................................passed
+And User enters the Address "No:2, Nehru Street, Chennai-44."...............passed
+And User enters the SecurityQuestion "411010"...............................passed
+And User enters the Answer "Chennai"........................................passed
+When User clicks on the Register Button.....................................passed
+Then New user gets Registered...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

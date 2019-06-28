@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="67.387243">
+<testcase classname="AddToCart" name="AddToCartScenario" time="67.387243">
+<system-out><![CDATA[Given User is in the Loginpage..............................................passed
+When User enters the username"Logesh123"....................................passed
+And user enters the password"123456"........................................passed
+And user clicks the login button............................................passed
+Then User navigate to the home page.........................................passed
+When User enters the string "Headphone" in search box.......................passed
+And User clicks on the find details button..................................passed
+Then user enters the AddTo Cart page........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
